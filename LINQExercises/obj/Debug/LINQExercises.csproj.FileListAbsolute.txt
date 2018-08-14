@@ -1,0 +1,7 @@
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises\bin\Debug\LINQExercises.exe.config
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises\bin\Debug\LINQExercises.exe
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises\bin\Debug\LINQExercises.pdb
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises\obj\Debug\LINQExercises.csprojAssemblyReference.cache
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises\obj\Debug\LINQExercises.csproj.CoreCompileInputs.cache
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises\obj\Debug\LINQExercises.exe
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises\obj\Debug\LINQExercises.pdb

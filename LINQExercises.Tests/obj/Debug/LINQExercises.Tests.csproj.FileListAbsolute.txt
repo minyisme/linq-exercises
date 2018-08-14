@@ -1,0 +1,17 @@
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\LINQExercises.Tests.dll
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\LINQExercises.Tests.pdb
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\LINQExercises.exe
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\LINQExercises.pdb
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\LINQExercises.exe.config
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\obj\Debug\LINQExercises.Tests.csprojAssemblyReference.cache
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\obj\Debug\LINQExercises.Tests.csproj.CoreCompileInputs.cache
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\obj\Debug\LINQExercises.Tests.csproj.CopyComplete
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\obj\Debug\LINQExercises.Tests.dll
+c:\users\v-miyan\source\repos\LINQExercises\LINQExercises.Tests\obj\Debug\LINQExercises.Tests.pdb
